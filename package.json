@@ -1,21 +1,22 @@
 {
-  "name": "react-native-android-library-boilerplate",
+  "name": "react-native-android-apps",
   "version": "0.0.1",
-  "author": "Christoph Michel http://cmichel.io",
+  "author": "Chintal Dholakiya",
   "private": false,
-  "license": "Unlicense",
+  "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://github.com/MrToph/react-native-android-library-boilerplate.git"
+    "url": "git+https://github.com/chintal31/applist.git"
   },
   "bugs": {
-    "url": "https://github.com/MrToph/react-native-android-library-boilerplate/issues"
+    "url": "https://github.com/chintal31/applist/issues"
   },
-  "homepage": "https://github.com/MrToph/react-native-android-library-boilerplate",
+  "homepage": "https://github.com/chintal31/applist#readme",
   "keywords": [
     "react-native",
     "android",
-    "library"
+    "apps",
+    "installed apps"
   ],
   "scripts": {
     "start": "node node_modules/react-native/local-cli/cli.js start",
